@@ -1,8 +1,8 @@
-title: Hamilton
-description: A minimal and beautiful Jekyll theme best for writing and note-taking.
-author: Shangzhi Huang
+title: Ricardo Garza
+description: Repositorio de proyectos relacionados con Ciencia de Datos y Analisís de Datos.
+author: Ricardo Garza
 avatar: /logo.png
-email: ngzhio@gmail.com
+email: ricardo.garza.ortiz@gmail.com
 
 plugins:
   - jekyll-seo-tag
@@ -42,4 +42,4 @@ social:
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
-skin: sunrise
+skin: midnight
