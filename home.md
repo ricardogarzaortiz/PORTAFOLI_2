@@ -1,8 +1,7 @@
 ---
-layout: page
-title: Home
-permalink: 
+layout: home
+title: zHome
 ---
 
-home
+xhome
 
