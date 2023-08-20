@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FAQ
-permalink: /faq/
+title: Proyectos Bi
+permalink: /proyectos_bi/
 ---
 
-An FAQ page.
+Aqui van los proyectos de Bi

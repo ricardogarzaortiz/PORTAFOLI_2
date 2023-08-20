@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Docs
-permalink: /docs/
+title: Proyectos SQL
+permalink: /proyectos_sql/
 ---
 
-A documentation page.
+Aqui van los proyectos de SQL
