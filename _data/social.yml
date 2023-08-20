@@ -2,5 +2,8 @@
   url: https://twitter.com/ngzhio
   icon: fab fa-twitter
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/ricardogarzaortiz
   icon: fab fa-github
+  - title: Linkedin
+  url: http://linkedin.com/in/ricardo-garza-ortiz
+  icon: fab fa-linkedin
